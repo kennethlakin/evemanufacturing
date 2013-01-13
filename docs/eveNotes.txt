@@ -1,0 +1,28 @@
+Observed max range from feature until disappearance of all mobile and static objects in it: ~377km.
+
+For POSs, ~365km away from the central control tower and all of the objects vanish.
+
+Looks like fastest base ROF is 2.00 sec per cycle.
+  Gunnery V gives us a 10% boost.
+  Rapid Firing V gives us another 20% boost.
+  Small Projectile Burst Aerator II gives us another 15%.
+   With these modifications, the expected max ROF is ~1.36 sec per cycle.
+ A sim tick time of 10Hz should be more than plenty for accuracy.
+
+Looks like 2->4k man battles are the expected maximum size for now. See:
+https://forums.eveonline.com/default.aspx?g=posts&m=835581
+and
+http://www.wolfpackclan.com/modules/newbbex/3100-29-the-biggest-scams-in-evetop.html
+
+Claims are that Time Dialation kicks in at ~1400 total in a system, assuming that you
+don't call ahead for server reservations. See:
+http://eveswarm.com/2012/01/a-titans-folly-the-battle-of-92d/
+
+
+Maybe interesting k-d tree impls:
+http://libkdtree.alioth.debian.org/
+https://code.google.com/p/nanoflann/
+http://people.cs.ubc.ca/~mariusm/index.php/FLANN/FLANN
+
+This is a cool thing, but not related to the issue at hand:
+http://pointclouds.org/
